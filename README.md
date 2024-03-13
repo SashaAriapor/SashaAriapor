@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my chat app<br><br>🌱 I’m currently learning Noting<br><br>❓ Ask me about anything related to MERN stack<br><br>⚡ Fun fact: the first computer virus was a creeper
+🔭 I’m currently working on my chat app<br><br>🌱 I’m currently learning Noting<br><br>
 
 
 ## 🌐 Socials:
